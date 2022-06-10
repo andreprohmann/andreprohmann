@@ -11,9 +11,9 @@
 
 ## **My Social Networks**
 
-<a href="https://www.linkedin.com/in/andre-luis-prohmann/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/andre-luis-prohmann/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:andre.prohmann@gmail.com" alt="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-Gmail-b20000?style=for-the-badge&logo=gmail&logoColor=white"> 
 </a>
  
 
